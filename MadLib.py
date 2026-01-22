@@ -1,14 +1,15 @@
 #MadLib.py
-#Name:
-#Date:
-#Assignment:
+#Name: Mia Garcia
+#Date: 1/21/26
+#Assignment: Lab 1 
 
 def main():
-  print("Madlib")
+  print("Lets Do a Madlib!")
   #Ask user for words
-
+  Noun1 = input("Enter a Noun: ")
+  Adjective1 = input("Enter a Adjective: ")
   #Print the story with the user supplied words.
-
+  print("This is the noun: ", Noun1)
 
 
 #Call the main function if this is the file being run.
