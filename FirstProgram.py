@@ -1,7 +1,7 @@
 #FirstProgram.py
-#Name:
-#Date:
-#Assignment:
+#Name: Mia Garcia
+#Date: 01/22/26
+#Assignment: Lab 1 
 
 def main():
   print("First Program")
@@ -12,7 +12,7 @@ def main():
   #Use the user's name in the program.
   print("nice to meet you", username)
   #Ask the user for their age.
-  userage = input("how old are you?")
+  userage = int(input("how old are you?"))
   #Tell the user what year they were born in.
   #Assume that they have not had their birthday yet this year.
   birthyear = 2026 - userage 
